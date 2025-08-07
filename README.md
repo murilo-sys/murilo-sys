@@ -32,7 +32,7 @@ Atualmente venho me aprofundando em tecnologias como Java, Spring Boot, Docker e
 - Desenvolvimento de APIs REST com Spring Boot  
 - Princípios de microsserviços e deploy com Docker  
 - Integração com serviços em nuvem (AWS e GCP)  
-- Estrutura de dados e algoritmos em Java e Python  
+- Estrutura de dados e algoritmos em Java e Python 
 
 ---
 
