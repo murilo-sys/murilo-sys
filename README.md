@@ -1,114 +1,182 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,35:1e293b,70:0ea5e9,100:38bdf8&text=Murilo%20Santiago&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Fullstack%20Developer%20•%20Tech%20Enthusiast&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0f172a,70:2563eb,100:38bdf8&text=Murilo%20Santiago&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Backend%20Developer%20in%20Progress%20•%20Fullstack%20Mindset%20•%20Automation%20%26%20AI&descSize=18&descAlignY=55"/>
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Java+%7C+Spring+Boot+%7C+Kotlin;Node.js+%7C+REST+APIs+%7C+Docker;Playwright+%7C+Automation+%7C+Artificial+Intelligence;Building+modern+backend+applications+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+backend+systems+with+Java+%26+Spring+Boot;Exploring+Kotlin%2C+Node.js%2C+Automation+and+AI;Turning+ideas+into+real+software;Code.+Learn.+Build.+Repeat." />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Backend%20Focused-0f172a?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-0f172a?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/Kotlin-0f172a?style=for-the-badge&logo=kotlin&logoColor=A97BFF"/>
-<img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=83CD29"/>
-<img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Playwright-0f172a?style=for-the-badge&logo=playwright&logoColor=45ba63"/>
+<img src="https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=F97316"/>
+<img src="https://img.shields.io/badge/Spring_Boot-020617?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Kotlin-020617?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
+<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"/>
+<img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Playwright-020617?style=for-the-badge&logo=playwright&logoColor=45ba63"/>
+<img src="https://img.shields.io/badge/AI-020617?style=for-the-badge&logo=openai&logoColor=ffffff"/>
 
 </div>
 
 ---
 
-# ⚡ About Me
+<table>
+<tr>
+<td width="55%">
+
+## 🧬 Sobre mim
 
 ```java
 public class MuriloSantiago {
 
-    String role = "Backend Developer";
-    
-    String[] mainStack = {
+    private final String role = "Backend Developer em formação";
+    private final String location = "São Paulo, Brasil";
+    private final String university = "Engenharia de Software";
+
+    private final String[] mainFocus = {
         "Java",
         "Spring Boot",
+        "APIs REST",
         "Kotlin",
-        "Node.js"
+        "Node.js",
+        "Docker",
+        "Automação",
+        "Inteligência Artificial"
     };
 
-    String[] interests = {
-        "REST APIs",
-        "Automation",
-        "Software Architecture",
-        "Artificial Intelligence",
-        "Backend Systems"
-    };
+    private final boolean alwaysLearning = true;
 
-    boolean alwaysLearning = true;
-
-    String currentGoal = 
-        "Building scalable and modern applications";
+    public String mission() {
+        return "Construir soluções reais, evoluir constantemente "
+             + "e transformar código em impacto.";
+    }
 }
+```
+
+</td>
+<td width="45%">
+
+## ⚡ Atualmente focado em
+
+```yaml
+Backend:
+  - Java
+  - Spring Boot
+  - APIs REST
+  - Kotlin
+  - Node.js
+
+Automation:
+  - Playwright
+  - Scripts
+  - IA aplicada ao desenvolvimento
+
+DevOps:
+  - Docker
+  - Linux
+  - Cloud Computing
+
+Base:
+  - Algoritmos
+  - Estrutura de Dados
+  - Arquitetura de Software
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🚀 Tech Arsenal
+
+<table>
+<tr>
+<td align="center" width="160">
+<h3>Backend</h3>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+</td>
+
+<td align="center" width="160">
+<h3>Frontend</h3>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+</td>
+
+<td align="center" width="160">
+<h3>Database</h3>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+</td>
+
+<td align="center" width="160">
+<h3>Tools</h3>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img height="55" src="https://playwright.dev/img/playwright-logo.svg"/>
+</td>
+
+<td align="center" width="160">
+<h3>Explorando</h3>
+<img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img height="55" src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🧠 Developer Roadmap
+
+```mermaid
+flowchart LR
+    A[Base sólida] --> B[Backend]
+    B --> C[Java + Spring Boot]
+    B --> D[Kotlin]
+    B --> E[Node.js]
+    C --> F[APIs REST]
+    F --> G[Arquitetura]
+    G --> H[Microsserviços]
+    G --> I[Docker]
+    I --> J[Cloud Computing]
+    F --> K[Automação]
+    K --> L[Playwright]
+    K --> M[IA aplicada]
 ```
 
 ---
 
-# 🚀 Tech Arsenal
+# 🏗️ O que estou construindo
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="140">
+<td width="33%" align="center">
 
-### Backend
+## ⚙️ Backend
 
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<br><br>
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-<br><br>
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-<br><br>
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+APIs REST, regras de negócio, autenticação, integração com banco de dados e estruturação de aplicações modernas.
 
 </td>
+<td width="33%" align="center">
 
-<td align="center" width="140">
+## 🤖 Automação & IA
 
-### Frontend
-
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<br><br>
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<br><br>
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+Automação com Playwright, scripts inteligentes e uso de IA para melhorar produtividade e resolver problemas reais.
 
 </td>
+<td width="33%" align="center">
 
-<td align="center" width="140">
+## ☁️ Cloud & DevOps
 
-### Database
-
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-
-</td>
-
-<td align="center" width="140">
-
-### DevOps
-
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<br><br>
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<br><br>
-<img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-
-</td>
-
-<td align="center" width="140">
-
-### Automation & AI
-
-<img height="60" src="https://playwright.dev/img/playwright-logo.svg"/>
-<br><br>
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+Estudando Docker, Linux e conceitos de cloud computing para entender melhor deploy, ambientes e infraestrutura.
 
 </td>
 </tr>
@@ -118,68 +186,29 @@ public class MuriloSantiago {
 
 ---
 
-# 🧠 Current Focus
+# 🎯 Objetivos
 
-<div align="center">
-
-```mermaid
-mindmap
-  root((Focus))
-    Backend
-      Java
-      Spring Boot
-      Kotlin
-      REST APIs
-    Automation
-      Playwright
-      Scripts
-      AI
-    DevOps
-      Docker
-      Linux
-      Cloud Concepts
-    Computer Science
-      Data Structures
-      Algorithms
-      Architecture
-```
-
-</div>
-
----
-
-# 🔥 What I'm Working On
-
-```yaml
-backend:
-  - REST APIs
-  - Authentication Systems
-  - Scalable Applications
-  - Clean Architecture
-
-automation:
-  - Browser Automation
-  - AI Integrations
-  - Workflow Optimization
-
-learning:
-  - Software Architecture
-  - Cloud Computing
-  - Advanced Backend Concepts
+```txt
+01. Evoluir como desenvolvedor backend
+02. Criar projetos reais e bem documentados
+03. Dominar Java, Spring Boot e APIs REST
+04. Explorar Kotlin e Node.js no backend
+05. Usar automação e IA para resolver problemas
+06. Desenvolver base prática em Docker, Linux e Cloud
 ```
 
 ---
 
-# 🌐 Connect With Me
+# 📫 Contato
 
 <div align="center">
 
 <a href="mailto:murilod_santiago@hotmail.com">
-<img src="https://img.shields.io/badge/Outlook-0f172a?style=for-the-badge&logo=microsoftoutlook&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Outlook-020617?style=for-the-badge&logo=microsoftoutlook&logoColor=38BDF8"/>
 </a>
 
 <a href="https://www.linkedin.com/in/murilo-santiago">
-<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 </div>
@@ -188,12 +217,19 @@ learning:
 
 <div align="center">
 
-## ⚔️ Philosophy
+## 🛸 Mindset
 
-> *"Great software is built through curiosity, consistency and continuous evolution."*
+```txt
+while(alive) {
+    learn();
+    build();
+    improve();
+    repeat();
+}
+```
 
-<br>
+### “Não é só sobre escrever código. É sobre construir soluções.”
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:38bdf8,50:0ea5e9,100:0f172a"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:38bdf8,50:2563eb,100:020617"/>
 
 </div>
