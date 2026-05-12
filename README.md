@@ -4,13 +4,13 @@
 
 ### Backend Developer • Fullstack Developer • Technology Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=750&lines=Java+%7C+Spring+Boot+%7C+Kotlin;Node.js+%7C+REST+APIs+%7C+Docker;Playwright+%7C+Automation+%7C+AI;Always+learning+new+technologies+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Java+%7C+Spring+Boot+%7C+Kotlin;Node.js+%7C+REST+APIs+%7C+Docker;Playwright+%7C+Automation+%7C+AI;Always+learning+new+technologies+🚀" />
 
 </div>
 
 ---
 
-# 💫 Sobre mim
+## 💫 Sobre mim
 
 🎓 Estudante de Engenharia de Software — Universidade Anhembi Morumbi  
 📍 São Paulo - SP, Brasil  
@@ -23,11 +23,11 @@ Atualmente venho aprofundando meus estudos em Java, Spring Boot, Kotlin, Node.js
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
-## 👨🏻‍💻 Backend
+### 👨🏻‍💻 Backend
 
 <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
@@ -35,31 +35,23 @@ Atualmente venho aprofundando meus estudos em Java, Spring Boot, Kotlin, Node.js
 <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
----
-
-## 🌐 Frontend
+### 🌐 Frontend
 
 <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
----
-
-## 🗄️ Database
+### 🗄️ Database
 
 <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
----
-
-## ⚙️ Tools & DevOps
+### ⚙️ Tools & DevOps
 
 <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img height="55" src="https://playwright.dev/img/playwright-logo.svg"/>
 
----
-
-## ☁️ Atualmente explorando
+### ☁️ Atualmente explorando
 
 <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 
@@ -67,34 +59,33 @@ Atualmente venho aprofundando meus estudos em Java, Spring Boot, Kotlin, Node.js
 
 ---
 
-# 📚 Atualmente estudando
+## 📚 Atualmente estudando
 
 ```yaml
-- APIs REST com Spring Boot
-- Kotlin para Backend
-- Node.js
-- Docker & Containers
-- Automação com Playwright
-- Estrutura de Dados & Algoritmos
-- Conceitos de Cloud Computing
-- Inteligência Artificial aplicada ao desenvolvimento
+Backend:
+  - Java
+  - Spring Boot
+  - Kotlin
+  - Node.js
+
+DevOps:
+  - Docker
+  - Linux
+  - Conceitos de Cloud Computing
+
+Automation:
+  - Playwright
+  - Inteligência Artificial aplicada ao desenvolvimento
+
+Fundamentos:
+  - Estrutura de Dados
+  - Algoritmos
+  - APIs REST
 ```
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilo-sys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-sys&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🎯 Objetivos
+## 🎯 Objetivos
 
 🚀 Evoluir como desenvolvedor backend  
 ⚙️ Construir aplicações escaláveis e bem estruturadas  
@@ -104,20 +95,16 @@ Atualmente venho aprofundando meus estudos em Java, Spring Boot, Kotlin, Node.js
 
 ---
 
-# 🌐 Connect with me
+## 🌐 Contato
 
 <div align="center">
 
-<a href="mailto:SEUEMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:murilod_santiago@hotmail.com">
+<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEULINKEDIN/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/murilo-sys">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/murilo-santiago" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
