@@ -1,55 +1,133 @@
+<div align="center">
+
 # 👨🏻‍💻 Murilo Santiago
 
-**`Desenvolvedor Fullstack em formação`**
+### Backend Developer • Fullstack Developer • Technology Enthusiast
 
-Olá! Me chamo Murilo Santiago, tenho 19 anos e sou de São Paulo. Concluí o Ensino Médio Integrado com T.I. no Colégio Satélite e atualmente curso Engenharia de Software na Universidade Anhembi Morumbi. Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir, tanto por meio da faculdade quanto de cursos, projetos pessoais e experiências profissionais.  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=750&lines=Java+%7C+Spring+Boot+%7C+Kotlin;Node.js+%7C+REST+APIs+%7C+Docker;Playwright+%7C+Automation+%7C+AI;Always+learning+new+technologies+🚀" />
 
-Já atuei com bancos de dados, desenvolvimento web, emissão de documentos logísticos e suporte técnico. Também liderei a criação de um aplicativo para facilitar vendas em eventos escolares.  
-
-Atualmente venho me aprofundando em tecnologias como Java, Spring Boot, Docker e AWS, com foco em desenvolvimento backend e APIs REST.
+</div>
 
 ---
 
-### 🚀 Tecnologias que venho trabalhando
+# 💫 Sobre mim
 
-<p align="left">
-  <img alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="Spring Boot" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="Docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="AWS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="HTML" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="C#" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img alt="Linux" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</p>
+🎓 Estudante de Engenharia de Software — Universidade Anhembi Morumbi  
+📍 São Paulo - SP, Brasil  
+
+Sou apaixonado por tecnologia e desenvolvimento de software, com foco principal em backend, APIs REST e aplicações modernas.
+
+Tenho experiência com desenvolvimento web, banco de dados, automação de processos e suporte técnico, sempre buscando criar soluções práticas e eficientes.
+
+Atualmente venho aprofundando meus estudos em Java, Spring Boot, Kotlin, Node.js, automação com Playwright e conceitos de cloud computing.
 
 ---
 
-### 📚 Atualmente estudando
+# 🚀 Tech Stack
 
-- Desenvolvimento de APIs REST com Spring Boot  
-- Princípios de microsserviços e deploy com Docker  
-- Integração com serviços em nuvem (AWS e GCP)  
-- Estrutura de dados e algoritmos em Java e Python 
+<div align="center">
+
+## 👨🏻‍💻 Backend
+
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
 ---
 
-### 📈 Estatísticas do GitHub
+## 🌐 Frontend
 
-<p>
-  <img 
-    align="left" 
-    alt="Murilo GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=murilo-sys&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-sys&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-</p>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+
+---
+
+## 🗄️ Database
+
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+
+---
+
+## ⚙️ Tools & DevOps
+
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img height="55" src="https://playwright.dev/img/playwright-logo.svg"/>
+
+---
+
+## ☁️ Atualmente explorando
+
+<img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+
+</div>
+
+---
+
+# 📚 Atualmente estudando
+
+```yaml
+- APIs REST com Spring Boot
+- Kotlin para Backend
+- Node.js
+- Docker & Containers
+- Automação com Playwright
+- Estrutura de Dados & Algoritmos
+- Conceitos de Cloud Computing
+- Inteligência Artificial aplicada ao desenvolvimento
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilo-sys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-sys&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎯 Objetivos
+
+🚀 Evoluir como desenvolvedor backend  
+⚙️ Construir aplicações escaláveis e bem estruturadas  
+🧠 Aprender cada vez mais sobre arquitetura de software  
+🤖 Explorar automações e IA aplicada ao desenvolvimento  
+☁️ Desenvolver experiência prática com cloud computing  
+
+---
+
+# 🌐 Connect with me
+
+<div align="center">
+
+<a href="mailto:SEUEMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/SEULINKEDIN/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/murilo-sys">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Learn. Build. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+
+</div>
